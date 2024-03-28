@@ -1,12 +1,18 @@
 body{
+    background-image: url(https://th.bing.com/th?&id=OVP.rFhXE-oeZb6QlKD5CPD1QwEsDh&w=308&h=173&c=7&pid=2.1&rs=1);
+    background-repeat: no-repeat;
+    background-size: cover;
     text-align: center;
-     background-color: aquamarine;
     
+}
+h1{
+    font-size: larger;
 }
 image{
     background-color: aliceblue;
     width: 100px;
     height: 100px;
+    margin: auto;
 
 }
 table{
@@ -21,3 +27,30 @@ table{
 .two{
     margin: auto;
 }
+.three{
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: chocolate;
+}
+.four{
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: blueviolet;
+}
+p{
+    color: black;
+}
+.six{
+    text-align: left;
+}
+#one{
+    text-align: left;
+}
+#two{
+    text-align: left;
+}
+.seven{
+    text-align: right;
+}
+
+
