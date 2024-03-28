@@ -1,0 +1,65 @@
+body{
+    background-image: url(https://th.bing.com/th?&id=OVP.rFhXE-oeZb6QlKD5CPD1QwEsDh&w=308&h=173&c=7&pid=2.1&rs=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    
+}
+h1{
+    font-size: larger;
+}
+image{
+    background-color: aliceblue;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+
+}
+table{
+    background-color: burlywood;
+    text-align: center;
+    table-layout: auto;
+}
+.one{
+    align-content: center;
+    margin: auto;
+}
+.two{
+    margin: auto;
+}
+.three{
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: chocolate;
+}
+.four{
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: blueviolet;
+}
+p{
+    color: black;
+}
+#six2{
+    float: left;
+    padding: 20px;
+    width: 50%;
+   
+}
+#one{
+    text-align: left;
+}
+#two{
+    text-align: left;
+}
+#seven2{
+    float: left;
+    padding: 20px;
+    width: 50%;
+    
+}
+section {
+    
+    display: table;
+    clear: both;
+  }
